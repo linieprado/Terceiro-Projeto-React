@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+![Reprograma Logo](https://www.reprograma.com.br/assets/img/logo-fundoclaro.png)
+# _TodasEmTech <span style= "color:purple">{REPROGRAMA}</span>_ :purple_heart:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub watchers](https://img.shields.io/github/watchers/linieprado/workshopReprograma?style=social)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReprogramaBr) ![GitHub forks](https://img.shields.io/github/forks/linieprado/workshopReprograma?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/linieprado/workshopReprograma?style=social) ![GitHub](https://img.shields.io/github/license/linieprado/workshopReprograma) 
 
-## Available Scripts
+MAIS UM PROJETINHO REACT DO ZERO - Turma On10 
 
-In the project directory, you can run:
+## :clipboard: _Sobre o Projeto_
 
-### `npm start`
+Meu Terceiro Projeto React do Zero...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esse é um projeto guiado, com a ajuda da querida Prof. [Simara Conceição](https://github.com/simaraconceicao). Criamos uma single page usando o React. Um app responsivo, com apis externas. 
+O app tem 3 páginas: Home, Simpsons e Busca.
+Na home tem um banner com os direcionamentos e o footer, com os contatos da Dev. Aprendiz. Na página dos Simpsons tem uma api dos Simpsons e uma interação bem divertida! Na página de busca você pode procurar um personagem da série Breaking Bad.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Não é demais!!!
 
-### `npm test`
+Simpsons-API: (https://simpsons-quotes-api.herokuapp.com/quotes)
+Breaking Bad - API: (https://www.breakingbadapi.com/api/characters)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## :pushpin: _Passo a passo_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Passo a passo do projeto, seguindo as orientações da [Simara Conceição](https://github.com/simaraconceicao):
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Criei um projeto react;
+2. Apaguei as informações default;
+3. Baixei algumas bibliotecas do REact (Routes e Axios);
+4. Criei páginas e rotas;
+5. Consuma uma API externa;
+6. Estilizei as páginas;
+7. Crie um footer com icones de redes sociais, github, nome e minibio da autora;
+8. Uma nova página, consumindo outra api ou arquivo interno que simule um JSON, renderizando cards na tela;
+9. Subi para o Netlifly.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+VOCÊ ENCONTRA ESSE PROJETO NO SITE: (https://projeto-react3-aline.netlify.app/)
 
-### `npm run eject`
+## :hammer_and_wrench: _Tecnologias_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :computer: _Como executar_
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Pré-requisitos
+Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas [Git](https://git-scm.com/), e um editor para trabalhar com o código como o [Vscode](https://code.visualstudio.com/).
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Rodando a aplicação 
+1. Clone este repositório
+2. Acesse a pasta do projeto no seu terminal/cmd 
+3. Abra a pasta no Vscode e um novo terminal
+4. No diretório do projeto digite o comando:  `npm start`
+5. Para ver no browser abra [http://localhost:3000](http://localhost:3000)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :globe_with_meridians: _Acesse outros Projetos_
 
-### Code Splitting
+Preview do Site [My First Page](https://alineprado.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Repositórios [GitHub](https://github.com/linieprado?tab=repositories)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## :woman_technologist: _Super Dev_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* [<img src="https://avatars.githubusercontent.com/u/79236944?s=400&u=115f3265d9e8d1c3a11a7a1aeb0ade7f6f15f577&v=4" width=115 > <br> <sub> Aline Prado </sub>](https://github.com/linieprado) 
+* [Instagram](https://www.instagram.com/linieprado/?hl=pt-br)
+* [Linkedin](https://www.linkedin.com/in/alinepradosilva/)
+* [Twitter](https://twitter.com/LiniePrados)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| :---: | 
