@@ -1,34 +1,36 @@
-.main-simpson {
+.main-breaking {
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
-    background-color: #f4a261;
-    
+    background-color: #e9c46a;
 }
 
-.main-simpson .card{
-    background-color: #f4a261;
+.main-breaking .card{
+    background-color: #e9c46a;
     width: 350px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 10%;
 
 }
 
-.main-simpson .card img{
-    width: 50%;
-    height: 80%;
+.main-breaking  img{
+    width: 10%;
+    height: 30%;
 }
 
-.main-simpson .card h2{
+.main-breaking  h2{
     color:#4f2158;
 }
 
+.main-breaking p {
+    color: #050505;
+}
 
-.main-simpson button {
+
+.button {
     background-color: black;
     border: none;
     color: white;
@@ -42,17 +44,17 @@
 }
 
 @media (max-width:768px){
-    .main-simpson {
+    .main-breaking {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
-        background-color: wheat;
+        background-color: #e9c46a;
         padding: 3rem;
     }
-    .main-simpson .card{
+    .main-breaking .card{
         margin: 2rem;
-        background-color: wheat;
+        background-color: #e9c46a;
         width: 350px;
         display: flex;
         flex-direction: column;
@@ -61,7 +63,7 @@
     
     }
 
-    .main-simpson button {
+    .button {
     background-color: black;
     border: none;
     color: white;
@@ -72,5 +74,6 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    
 }
 }

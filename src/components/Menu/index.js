@@ -14,7 +14,7 @@ const Menu = () => {
                     <Link className="link"to="/Simpsons">Simpsons</Link>
                 </li>
                 <li>
-                    <Link className="link"to="/DragonBall">DragonBall</Link>
+                    <Link className="link"to="/Busca">Busca</Link>
                 </li>
             </ul>
         </div>

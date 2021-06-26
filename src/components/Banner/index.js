@@ -14,6 +14,9 @@ const Banner = () => {
         <img src={Img} alt= "Ilustração Banner" />
 
         </div>
+    
+
+        
 
     )
 
